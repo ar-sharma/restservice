@@ -1,0 +1,8 @@
+﻿
+port=7070
+url=jdbc:mysql://localhost:3306/demo
+user=root
+password=1234
+className=com.mysql.jdbc.Driver
+initParamName=jersey.config.server.provider.classnames
+
